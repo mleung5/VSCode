@@ -1,6 +1,5 @@
-# VSCode: a how-to guide for "edit local; remote update"
+# How-to guide for "edit local (VSCode); remote update (GCP)"
 - This is simply a personal journal log, created originally to serve my aging memory only.
-- I elobrated it with a little more description and added a few more pictures.
 - This guide assumes Windows. But the underlying concept is essentially the same for Mac.
 - It's just how I did it. I am sure there are other better / easier ways for that.
 - Please feel free to share. We all learn and grow together.
