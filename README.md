@@ -1,4 +1,4 @@
-# How-to guide for "edit local (VSCode); remote update (GCP)"
+# How-to guide for "local edit (VSCode); remote update (GCP)"
 - This is simply a personal journal log, created originally to serve my aging memory only.
 - This guide assumes Windows. But the underlying concept is essentially the same for Mac.
 - It's just how I did it. I am sure there are other better / easier ways for that.
